@@ -1,2 +1,0 @@
-# evreka_programming_assignment
-Evreka Programming Assignment
