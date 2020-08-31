@@ -21,7 +21,7 @@ operation time were stored in the bin table.
 <img src="er_diagram_new.png" style="width:3.91667in;height:3.76042in" />
 
 In the current version there can be more than operations. Therefore we
-have a new operation table store what they are called, and binoperation
+have a new operation table that stores what they are called, and binoperation
 table to store each operation’s frequency and last operation time for
 each bin.
 
