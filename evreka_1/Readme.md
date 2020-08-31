@@ -23,7 +23,7 @@ One is to use ‘distinct on’ feature of PostgreSQL, the other is fetching
 the max with an aggregate function in a subquery and joining other
 fields’ data on it.
 
-To these I created a Postgre database and inserted some test data. I
+To compare these I created a Postgre database and inserted some test data. I
 inserted 16 cars and navigation record entries uniformly distributed in
 the past month. Then I added 2 more cars that don’t have any navigation
 entry in the past two days. In total this comes up to 861790 entries.
